@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pixel{
+  width: calc(100vw / 100);
+  height: calc(100vw / 100);
+  outline: 1px solid black;
+  border: none;
+  margin: 1.5px;
+  background-color: rgb(255,255,255);
+}
